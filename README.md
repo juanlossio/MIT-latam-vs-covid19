@@ -42,8 +42,7 @@ From this statement we can construct the following graph:
 
 Having these graphs, we can construct the following relationships:
 
-(Ibuprofen, aggravates, COVID-19)
-(Ibuprofen, improves, COVID-19)
+(Ibuprofen, aggravates, COVID-19) and (Ibuprofen, improves, COVID-19)
 
 Whit these, we can do a sentence-pairs classification to know is they contradict or not:
 
@@ -56,6 +55,6 @@ fact = "Ibuprofen improves COVID-19"
 prediction, check = fact_check(claim, fact)
 print(check)
 ```
-
+The out for this example must be "False", meaning that the claim was contradicted by the fact founded in the publication.
 
 
