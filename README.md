@@ -22,7 +22,7 @@ While searching through articles and tweets, we selected sources, which we could
 
 Additionally, we classified articles based on common topics related to coronavirus, for example, Hydroxychloroquine, conspiracy theories about the virus’ origin, and Vitamin D’s impact on patients’ defenses.
 
-## Use case
+## Use case: Fackt-checking
 
 With a knowledge graph approach, we can extract entities and their relationships in a statement. Take for instance this tweet (https://twitter.com/olivierveran/status/1238776545398923264?s=20):
 
