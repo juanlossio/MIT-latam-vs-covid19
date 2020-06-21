@@ -40,9 +40,7 @@ From this statement we can construct the following graph:
 
 ![fact](/img/fact_graph.png)
 
-Having these graphs, we can construct the following relationships:
-
-(Ibuprofen, aggravates, COVID-19) and (Ibuprofen, improves, COVID-19)
+Having these graphs, we can construct the following statements: ("Ibuprofen", "aggravates", "COVID-19") and ("Ibuprofen", "improves", "COVID-19").
 
 Whit these, we can do a sentence-pairs classification to know is they contradict or not:
 
