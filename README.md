@@ -26,7 +26,7 @@ Additionally, we classified articles based on common topics related to coronavir
 
 With a knowledge graph approach, we can extract entities and their relationships in a statement. Take for instance this tweet (https://twitter.com/olivierveran/status/1238776545398923264?s=20):
 
-->***“The taking of anti-inflammatories [ibuprofen, cortisone … ] could be a factor in aggravating the infection. In case of fever, take paracetamol. If you are already taking anti-inflammatory drugs, ask your doctor’s advice”***<-
+***“The taking of anti-inflammatories [ibuprofen, cortisone … ] could be a factor in aggravating the infection. In case of fever, take paracetamol. If you are already taking anti-inflammatory drugs, ask your doctor’s advice”***
 
 From this claim, we can construct a graph in this manner:
 
@@ -34,7 +34,7 @@ From this claim, we can construct a graph in this manner:
 
 However, a publication by Sridharan, G. K., Kotagiri, R., Chandiramani, et al. (2020) claim that actually the use of ibuprofen may be beneficial to treat COVID-19. The actual statement is the following:
 
-->***“However, available data from limited studies show administration of recombinant ACE2 improves lung damage caused by respiratory viruses, suggesting ibuprofen use may be beneficial in COVID-19 disease. At this time, there is no supporting evidence to discourage the use of ibuprofen.”***<-
+***“However, available data from limited studies show administration of recombinant ACE2 improves lung damage caused by respiratory viruses, suggesting ibuprofen use may be beneficial in COVID-19 disease. At this time, there is no supporting evidence to discourage the use of ibuprofen.”***
 
 From this statement we can construct the following graph:
 
