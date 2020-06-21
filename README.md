@@ -1,4 +1,3 @@
-# COVInfo
 ![covinfo](img/covinfo_logo.png)
 
 ## Introduction
